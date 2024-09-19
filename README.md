@@ -1,6 +1,3 @@
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=MohamedAymanHosny&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAymanHosny" />
-</div>
 
 <h1 align="center">Hi 👋, I'm Mohamed Ayman</h1>
 
