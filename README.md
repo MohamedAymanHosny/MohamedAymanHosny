@@ -7,8 +7,8 @@
 <h3 align="center">I'm a Computer Science Student, Coach in Thebes CPC Community, Competitive Programmer and ECPC Finalist</h3>
 
 <p align="center">
-    📫 How to reach me <strong>mohamed0ayman0hacker@gmail.com</strong>
-    <\p>
+    📫 How to reach me: <strong>mohamed0ayman0hacker@gmail.com</strong>
+    </p>
 
 <h3 align="center">Connect with me:</h3>
 
