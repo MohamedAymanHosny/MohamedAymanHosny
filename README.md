@@ -3,9 +3,28 @@
 
 - 📫 How to reach me **mohamed0ayman0hacker@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-ayman-05361a289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-ayman-05361a289/" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/mohamed-ayman-05361a289" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Ayman" height="30" width="40" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/MohamedAymanHosny" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mohamed Ayman GitHub" height="30" width="40" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://codeforces.com/profile/E_L_N_A_G_M" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="E_L_N_A_G_M" height="30" width="40" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.facebook.com/profile.php?id=61557630283309&mibextid=ZbWKwL" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed Ayman Facebook" height="30" width="40" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://youtube.com/@nagm_code?si=kgvKB7gctOtB9ppu" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Nagm Code YouTube" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
