@@ -39,5 +39,5 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAymanHosny&show_icons=true&locale=en&layout=compact" alt="MohamedAymanHosny" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAymanHosny&show_icons=true&locale=en&layout=compact&langs_count=2" alt="Languages used by MohamedAymanHosny" />
 </p>
