@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Ayman</h1>
 
-<h3 align="center">I'm a Computer Science Student, Coach in Thebes CPC Community, Competitive Programmer and ECPC Finalist</h3>
+<h3 align="center">I'm a Computer Science Student, Coach in Thebes CPC Community, Competitive Programmer and ACPC Finalist</h3>
 
 <p align="center">
     📫 How to reach me: <strong>mohamed0ayman0hacker@gmail.com</strong>
