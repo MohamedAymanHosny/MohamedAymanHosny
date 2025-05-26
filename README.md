@@ -4,8 +4,8 @@
 <h3 align="center">I'm a Computer Science Student, Competitive Programmer and ACPC Finalist</h3>
 
 <p align="center">
-    📫 How to reach me: <strong>mohamed0ayman0hacker@gmail.com</strong>
-    </p>
+  📫 How to reach me: <a href="mailto:mohamed0ayman0hacker@gmail.com"><strong>mohamed0ayman0hacker@gmail.com</strong></a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 
