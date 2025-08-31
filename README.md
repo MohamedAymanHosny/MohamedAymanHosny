@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Mohamed Ayman</h1>
+<h1 align="center">I'm Mohamed Ayman</h1>
+<h2 align="center">Software Engineer | Backend Developer [.Net]</h2>
 
 <h3 align="center">I'm a Computer Science Student, Competitive Programmer and ACPC Finalist</h3>
 
