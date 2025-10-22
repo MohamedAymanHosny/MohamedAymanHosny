@@ -5,23 +5,25 @@
 <h3 align="center">I'm a Computer Science Student, Competitive Programmer and ACPC Finalist</h3>
 
 <p align="center">
-  📫 How to reach me: <a href="mailto:mohamed0ayman0hacker@gmail.com"><strong>mohamed0ayman0hacker@gmail.com</strong></a>
-</p>
-
-<h3 align="center">Connect with me:</h3>
-
+  📫 How to reach me: <a href="mailto:mohamed0software0ayman@gmail.com"><strong>mohamed0software0ayman@gmail.com</strong></a>
 <p align="center">
     <a href="https://www.linkedin.com/in/mohamed-ayman-05361a289" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Ayman" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/MohamedAymanHosny" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mohamed Ayman GitHub" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://codeforces.com/profile/E_L_N_A_G_M" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="E_L_N_A_G_M" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
     </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://wa.me/201202575689" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
+    </a>
+</p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
