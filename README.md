@@ -45,6 +45,7 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/LINQPad_Logo.png" alt="linq" width="40" height="40"/> 
   </a> 
+  <p align="left"> <a href="https://www.linqpad.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/LINQPad_Logo.png" alt="linqpad" width="80" height="80"/> </a> </p>
 </p>
 
 
