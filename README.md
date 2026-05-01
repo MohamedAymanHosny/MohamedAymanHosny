@@ -9,21 +9,17 @@
     <strong>mohamed0software0ayman@gmail.com</strong>
   </a>
 </p>
-
 <p>
-  <a href="https://www.linkedin.com/in/mohamed-ayman-05361a289" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/mohamed-ayman-05361a289">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30">
   </a>
-  
-  <a href="https://github.com/MohamedAymanHosny" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+  <a href="https://github.com/MohamedAymanHosny">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30">
   </a>
-  
-  <a href="https://wa.me/201202575689" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40" />
+  <a href="https://wa.me/201202575689">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30">
   </a>
 </p>
-
 <h3>Languages and Tools:</h3>
 
 <p>
