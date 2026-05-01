@@ -10,7 +10,7 @@
   </a>
 </p>
 <p>
-  <a href="[https://www.linkedin.com/in/mohamed-ayman-05361a289](https://www.linkedin.com/in/mohamed-ayman-hosny-05361a289/)">
+  <a href="https://www.linkedin.com/in/mohamed-ayman-05361a289">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30">
   </a>
   <a href="https://github.com/MohamedAymanHosny">
